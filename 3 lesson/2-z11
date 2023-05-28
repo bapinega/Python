@@ -1,0 +1,6 @@
+# Златопольский 11.2
+a = []
+for i in range(10):
+    b = list(input('Введите число '))
+    a = a + b
+print(a)
